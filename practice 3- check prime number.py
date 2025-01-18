@@ -1,3 +1,5 @@
+#Q3 to check the prime number:
+
 def is_prime(num):
     
     # Prime numbers start from 2
