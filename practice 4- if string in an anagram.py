@@ -5,7 +5,7 @@ def is_anagram(str1, str2):
     # Sort both strings and compare
     return sorted(str1) == sorted(str2)
 
-    g # Inputs
+    # Inputs
 word1 = input("Enter the first word: ")
 word2 = input("Enter the second word: ")
 
