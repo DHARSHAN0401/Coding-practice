@@ -1,4 +1,4 @@
-#Q1 simple user input data was display in format
+#Q1 simple user input data was display in format .
 
 # Prompting the user for input
 name = input("Enter your name: ")
