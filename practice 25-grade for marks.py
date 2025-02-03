@@ -10,5 +10,5 @@ def grade():
         print("grade D")
     else:
         print ((mark),"is fail")
-        
+#call function:        
 grade()

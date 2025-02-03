@@ -6,4 +6,5 @@ def is_armstrong():
     for i in num_str:
         armstrong+=int(i)**num_digit
     print((armstrong), "is armstrong")
+#call function:
 is_armstrong()
